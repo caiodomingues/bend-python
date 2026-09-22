@@ -1,0 +1,8 @@
+bend-python
+Copyright 2026 Caio Santos
+
+This project adapts functions emitted by Bend 2.0.25, an Apache-2.0 project:
+https://github.com/bendlang/bend
+
+The native compiler output includes Bend's runtime. Runtime worker and stack
+adaptations are implemented in src/bend_python/_runtime_patch.py.
